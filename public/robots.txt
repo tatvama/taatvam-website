@@ -1,0 +1,5 @@
+# https://taatvam.com/robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://taatvam.com/sitemap.xml

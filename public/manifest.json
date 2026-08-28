@@ -1,0 +1,14 @@
+{
+  "short_name": "Taatvam",
+  "name": "Taatvam — Tatvam AI Labs Private Limited",
+  "description": "A product house for India's devotional life. Divya Maarg and Sai Vani.",
+  "icons": [
+    { "src": "favicon.ico", "sizes": "64x64 32x32 24x24 16x16", "type": "image/x-icon" },
+    { "src": "favicon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any" }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#16130f",
+  "background_color": "#fbf9f5",
+  "lang": "en-IN"
+}

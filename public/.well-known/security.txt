@@ -1,0 +1,5 @@
+Contact: mailto:team@taatvam.com
+Preferred-Languages: en, kn, hi
+Canonical: https://taatvam.com/.well-known/security.txt
+Policy: https://taatvam.com/legal/security
+Expires: 2027-08-28T00:00:00.000Z
